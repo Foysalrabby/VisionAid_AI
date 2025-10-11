@@ -1,0 +1,2 @@
+# VisionAid_AI
+During my undergraduate study, I developed a project called VisionAid AI, a mobile application built with Flutter and Python-based artificial intelligence. It assists visually impaired people by detecting surrounding objects and announcing their names through voice output. This project inspired my passion for accessible technology, computer vision, and machine learning for social good
